@@ -14,8 +14,7 @@ Feel free to contact me
 ### Forecasting: Combinations and Encompassing
 ### Factor Models
 ### Dynamic Models
-### Cointegration and Spurious Regression
-### Vector Autoregressove Models (VAR)
-### Multivariate Volatility Models
+### Cointegration and Spurious Regressi
+### Multivariate Volatility Model
 ### Structural VAR Models (SVAR)
 ### Generalized Method of Moments (GMM)
