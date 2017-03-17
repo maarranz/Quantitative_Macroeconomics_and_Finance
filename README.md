@@ -8,11 +8,13 @@ Feel free to contact me
 
 ## List of Modules
 ### Working with FRED and Yahoo data
+### Univariate ARIMA Modeling
+### Forecasting: Combinations and Encompassing
 ### Unit Root Testing
 ### Volatility Modeling
 ### Factor Models
 ### Dynamic Models
 ### Cointegration and Spurious Regression
 ### Vector Autoregressove Models (VAR)
-### Strtuctural VAR Models (SVAR)
+### Structural VAR Models (SVAR)
 ### Generalized Method of Moments (GMM)
