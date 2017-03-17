@@ -7,14 +7,14 @@ These courses will also be offered online (MOOCs).
 Feel free to contact me 
 
 ## List of Modules
-### Working with FRED and Yahoo data
+### Working with FRED, Oanda, and Yahoo data
 ### Univariate ARIMA Modeling
-### Forecasting: Combinations and Encompassing
 ### Unit Root Testing
 ### Volatility Modeling
+### Forecasting: Combinations and Encompassing
 ### Factor Models
 ### Dynamic Models
-### Cointegration and Spurious Regression
-### Vector Autoregressove Models (VAR)
+### Cointegration and Spurious Regressi
+### Multivariate Volatility Model
 ### Structural VAR Models (SVAR)
 ### Generalized Method of Moments (GMM)
