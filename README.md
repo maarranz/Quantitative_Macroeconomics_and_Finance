@@ -15,6 +15,7 @@ Feel free to contact me
 ### Factor Models
 ### Dynamic Models
 ### Cointegration and Spurious Regression
+### VAR and VECM Modeling
 ### Multivariate Volatility Models
 ### Structural VAR Models (SVAR)
 ### Generalized Method of Moments (GMM)
