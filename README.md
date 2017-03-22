@@ -11,7 +11,7 @@ Feel free to contact me
 ### Univariate ARIMA Modeling
 ### Unit Root Testing
 ### Volatility Modeling
-### Forecasting: Combinations and Encompassing
+### Forecasting, Combinations and Encompassing
 ### Factor Models
 ### Dynamic Models
 ### Cointegration and Spurious Regression
