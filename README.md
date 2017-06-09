@@ -10,8 +10,8 @@ Feel free to contact me
 ### Working with FRED, Oanda, and Yahoo data
 ### Univariate ARIMA Modeling
 ### Unit Root Testing
-### Volatility Modeling
 ### Forecasting, Combinations and Encompassing
+### Volatility Modeling
 ### Factor Models
 ### Dynamic Models
 ### Cointegration and Spurious Regression
